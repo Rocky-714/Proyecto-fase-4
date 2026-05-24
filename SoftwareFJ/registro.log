@@ -1,0 +1,130 @@
+[INFO] 2026-05-23 14:40:00 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 14:40:00 - ERROR esperado: El nombre del cliente es inválido.
+[INFO] 2026-05-23 14:40:00 - Servicio sala creado
+[INFO] 2026-05-23 14:40:00 - Servicio equipo creado
+[INFO] 2026-05-23 14:40:00 - Servicio asesoría creado
+[INFO] 2026-05-23 14:40:00 - ERROR reserva válida: cannot access local variable 'c1' where it is not associated with a value
+[INFO] 2026-05-23 14:40:00 - ERROR esperado reserva: Cliente inválido
+[INFO] 2026-05-23 14:42:52 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 14:42:52 - ERROR esperado: El nombre del cliente es inválido.
+[INFO] 2026-05-23 14:42:52 - Servicio sala creado
+[INFO] 2026-05-23 14:42:52 - Servicio equipo creado
+[INFO] 2026-05-23 14:42:52 - Servicio asesoría creado
+[INFO] 2026-05-23 14:42:52 - ERROR reserva válida: cannot access local variable 'c1' where it is not associated with a value
+[INFO] 2026-05-23 14:42:52 - ERROR esperado reserva: Cliente inválido
+[INFO] 2026-05-23 14:42:59 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 14:42:59 - ERROR esperado: El nombre del cliente es inválido.
+[INFO] 2026-05-23 14:42:59 - Servicio sala creado
+[INFO] 2026-05-23 14:42:59 - Servicio equipo creado
+[INFO] 2026-05-23 14:42:59 - Servicio asesoría creado
+[INFO] 2026-05-23 14:42:59 - ERROR reserva válida: cannot access local variable 'c1' where it is not associated with a value
+[INFO] 2026-05-23 14:42:59 - ERROR esperado reserva: Cliente inválido
+[INFO] 2026-05-23 14:45:32 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 14:45:32 - ERROR esperado: El nombre del cliente es inválido.
+[INFO] 2026-05-23 14:45:32 - Servicio sala creado
+[INFO] 2026-05-23 14:45:32 - Servicio equipo creado
+[INFO] 2026-05-23 14:45:32 - Servicio asesoría creado
+[INFO] 2026-05-23 14:45:32 - ERROR reserva válida: cannot access local variable 'c1' where it is not associated with a value
+[INFO] 2026-05-23 14:45:32 - ERROR esperado reserva: Cliente inválido
+[INFO] 2026-05-23 14:51:27 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 14:51:27 - ERROR esperado: El nombre del cliente es inválido.
+[INFO] 2026-05-23 14:51:27 - Servicio sala creado
+[INFO] 2026-05-23 14:51:27 - Servicio equipo creado
+[INFO] 2026-05-23 14:51:27 - Servicio asesoría creado
+[INFO] 2026-05-23 14:51:27 - ERROR reserva válida: cannot access local variable 'c1' where it is not associated with a value
+[INFO] 2026-05-23 14:51:27 - ERROR esperado reserva: Cliente inválido
+[INFO] 2026-05-23 14:51:33 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 14:51:33 - Servicio sala creado
+[INFO] 2026-05-23 14:51:33 - ERROR reserva válida: Dependencias no creadas
+[INFO] 2026-05-23 14:51:33 - ERROR cliente inválido: El nombre del cliente es inválido.
+[INFO] 2026-05-23 14:51:33 - ERROR servicio inválido: Costo inválido
+[INFO] 2026-05-23 14:51:39 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 14:51:39 - Servicio sala creado
+[INFO] 2026-05-23 14:51:39 - ERROR reserva válida: Dependencias no creadas
+[INFO] 2026-05-23 14:51:39 - ERROR cliente inválido: El nombre del cliente es inválido.
+[INFO] 2026-05-23 14:51:39 - ERROR servicio inválido: Costo inválido
+[INFO] 2026-05-23 14:54:42 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 14:54:42 - Servicio sala creado
+[INFO] 2026-05-23 14:54:42 - ERROR reserva válida: Dependencias no creadas
+[INFO] 2026-05-23 14:54:42 - ERROR cliente inválido: El nombre del cliente es inválido.
+[INFO] 2026-05-23 14:54:42 - ERROR servicio inválido: Costo inválido
+[INFO] 2026-05-23 14:54:45 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 14:54:45 - Servicio sala creado
+[INFO] 2026-05-23 14:54:45 - ERROR reserva válida: Dependencias no creadas
+[INFO] 2026-05-23 14:54:45 - ERROR cliente inválido: El nombre del cliente es inválido.
+[INFO] 2026-05-23 14:54:45 - ERROR servicio inválido: Costo inválido
+[INFO] 2026-05-23 14:55:34 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 14:55:34 - Servicio sala creado
+[INFO] 2026-05-23 14:55:34 - ERROR reserva válida: Dependencias no creadas
+[INFO] 2026-05-23 14:55:34 - ERROR cliente inválido: El nombre del cliente es inválido.
+[INFO] 2026-05-23 14:55:34 - ERROR servicio inválido: Costo inválido
+[INFO] 2026-05-23 15:00:18 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 15:00:18 - Servicio sala creado
+[INFO] 2026-05-23 15:00:18 - ERROR reserva válida: Dependencias no creadas
+[INFO] 2026-05-23 15:00:18 - ERROR cliente inválido: El nombre del cliente es inválido.
+[INFO] 2026-05-23 15:00:18 - ERROR servicio inválido: Costo inválido
+[INFO] 2026-05-23 15:06:35 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 15:06:35 - Servicio sala creado
+[INFO] 2026-05-23 15:06:35 - ERROR reserva válida: Dependencias no creadas
+[INFO] 2026-05-23 15:06:35 - ERROR cliente inválido: El nombre del cliente es inválido.
+[INFO] 2026-05-23 15:06:35 - ERROR servicio inválido: Costo inválido
+[INFO] 2026-05-23 15:08:36 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 15:08:36 - Servicio sala creado
+[INFO] 2026-05-23 15:08:36 - ERROR reserva válida: Dependencias no creadas
+[INFO] 2026-05-23 15:08:36 - ERROR cliente inválido: El nombre del cliente es inválido.
+[INFO] 2026-05-23 15:08:36 - ERROR servicio inválido: Costo inválido
+[INFO] 2026-05-23 15:11:42 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 15:11:42 - Servicio sala creado
+[INFO] 2026-05-23 15:11:42 - ERROR reserva válida: Dependencias no creadas
+[INFO] 2026-05-23 15:11:42 - ERROR cliente inválido: El nombre del cliente es inválido.
+[INFO] 2026-05-23 15:11:42 - ERROR servicio inválido: Costo inválido
+[INFO] 2026-05-23 15:18:56 - INICIO SIMULACIONES
+[INFO] 2026-05-23 15:18:56 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 15:18:56 - ERROR cliente inválido: El nombre del cliente es inválido.
+[INFO] 2026-05-23 15:18:56 - Servicio sala creado
+[INFO] 2026-05-23 15:18:56 - Servicio equipo creado
+[INFO] 2026-05-23 15:18:56 - Servicio asesoría creado
+[INFO] 2026-05-23 15:18:56 - ERROR reserva válida: cannot access local variable 'c1' where it is not associated with a value
+[INFO] 2026-05-23 15:18:56 - ERROR reserva sin cliente: Cliente inválido
+[INFO] 2026-05-23 15:18:56 - ERROR reserva sin servicio: cannot access local variable 'c1' where it is not associated with a value
+[INFO] 2026-05-23 15:18:56 - ERROR costo: Costo inválido
+[INFO] 2026-05-23 15:18:56 - ERROR reserva final: cannot access local variable 'c1' where it is not associated with a value
+[INFO] 2026-05-23 15:18:56 - FIN SIMULACIONES
+[INFO] 2026-05-23 15:19:09 - INICIO SIMULACIONES
+[INFO] 2026-05-23 15:19:09 - ERROR cliente válido: Correo electrónico inválido.
+[INFO] 2026-05-23 15:19:09 - ERROR cliente inválido: El nombre del cliente es inválido.
+[INFO] 2026-05-23 15:19:09 - Servicio sala creado
+[INFO] 2026-05-23 15:19:09 - Servicio equipo creado
+[INFO] 2026-05-23 15:19:09 - Servicio asesoría creado
+[INFO] 2026-05-23 15:19:09 - ERROR reserva válida: cannot access local variable 'c1' where it is not associated with a value
+[INFO] 2026-05-23 15:19:09 - ERROR reserva sin cliente: Cliente inválido
+[INFO] 2026-05-23 15:19:09 - ERROR reserva sin servicio: cannot access local variable 'c1' where it is not associated with a value
+[INFO] 2026-05-23 15:19:09 - ERROR costo: Costo inválido
+[INFO] 2026-05-23 15:19:09 - ERROR reserva final: cannot access local variable 'c1' where it is not associated with a value
+[INFO] 2026-05-23 15:19:09 - FIN SIMULACIONES
+[INFO] 2026-05-23 16:14:25 - Simulación servicio
+[INFO] 2026-05-23 16:24:54 - Simulación servicio
+[INFO] 2026-05-23 16:30:08 - Simulación servicio
+[INFO] 2026-05-23 16:30:56 - Simulación cliente
+[INFO] 2026-05-23 16:30:56 - Simulación servicio
+[INFO] 2026-05-23 16:30:56 - Simulación reserva
+[INFO] 2026-05-23 16:31:37 - Simulación cliente
+[INFO] 2026-05-23 16:31:37 - Simulación servicio
+[INFO] 2026-05-23 16:31:37 - Simulación reserva
+[INFO] 2026-05-23 16:31:39 - Simulación cliente
+[INFO] 2026-05-23 16:31:39 - Simulación servicio
+[INFO] 2026-05-23 16:31:39 - Simulación reserva
+[INFO] 2026-05-23 16:35:32 - Simulación cliente
+[INFO] 2026-05-23 16:35:32 - Simulación servicio
+[INFO] 2026-05-23 16:35:32 - Simulación reserva
+[INFO] 2026-05-23 16:36:17 - Simulación servicio
+[INFO] 2026-05-23 16:36:31 - Simulación servicio
+[INFO] 2026-05-23 16:43:59 - Simulación cliente
+[INFO] 2026-05-23 16:43:59 - Simulación servicio
+[INFO] 2026-05-23 16:43:59 - Simulación reserva
+[INFO] 2026-05-23 16:45:06 - Simulación cliente
+[INFO] 2026-05-23 16:45:06 - Simulación servicio
+[INFO] 2026-05-23 16:45:06 - Simulación reserva
+[INFO] 2026-05-23 17:00:44 - Simulación cliente
+[INFO] 2026-05-23 17:00:44 - Simulación servicio
+[INFO] 2026-05-23 17:00:44 - Simulación reserva
